@@ -9,5 +9,6 @@
 #include <vector>
 #include <algorithm>
 #include <fstream>
+#include <string>
 
 #endif
